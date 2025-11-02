@@ -16,7 +16,7 @@ public class PortfolioService {
                 "BCA 2nd Year • Aspiring Software Developer",
                 "Passionate about building sleek UIs and scalable backends. Exploring Spring Boot, React, and cloud-native tools.",
                 "Tejaswinibharati17@gmail.com",
-                "9309737769",
+                "8261013204",
                 "Taloda, India",
                 "https://github.com/Tejaswini8261",
                 "https://linkedin.com/in/your-linkedin",
