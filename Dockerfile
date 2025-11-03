@@ -15,4 +15,4 @@ RUN apt-get update && apt-get install -y maven && mvn clean package -DskipTests
 EXPOSE 8080
 
 # Run the jar file
-CMD ["java", "-jar", "target/*.jar"]
+CMD ["java", "-jar", "target/futuristic-portfolio-0.0.1-SNAPSHOT.jar"]
