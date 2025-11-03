@@ -1,0 +1,6 @@
+com/student/portfolio/model/SkillCategory.class
+com/student/portfolio/model/Project.class
+com/student/portfolio/service/PortfolioService.class
+com/student/portfolio/FuturisticPortfolioApplication.class
+com/student/portfolio/web/HomeController.class
+com/student/portfolio/model/Profile.class
